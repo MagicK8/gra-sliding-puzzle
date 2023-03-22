@@ -1,1 +1,0 @@
-# gra-sliding-puzzle
